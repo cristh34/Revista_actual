@@ -1,0 +1,1 @@
+<div class="cien"><img src="img/encabezacocina.jpg" /></div>
